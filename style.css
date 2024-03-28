@@ -1,0 +1,183 @@
+body {
+    font-family: "PT Sans", sans-serif
+  }
+  nav {
+    display: inline-block;
+    background-color: #B7F0F1;
+    width: 100%;
+    height: 100px;
+  }
+  img {
+    background-image: url('TCF_Logo.png');
+  }
+  .block_element {
+    height: 100px;
+    width: 300px;
+    margin-left: 10px;
+    display: inline-block;
+    float:right;
+  }
+  .blockElement{
+     height: 100px;
+    width: 300px;
+    margin-left: 10px;
+    display: inline-block;
+    float:right;
+    font-size: 15px
+  }
+  .donateLink {
+      padding: 15px;
+      margin: 15px;
+    float:center
+  }
+  .shopLink {
+     padding: 15px;
+      margin: 15px;
+    float:left
+  }
+  .servicesLink {
+      padding: 15px;
+      margin: 15px;
+    float:left
+  }
+  .newsLink {
+      padding: 15px;
+      margin: 15px;
+    float:left
+  }
+  .aboutLink {
+      padding: 15px;
+      margin: 15px;
+    float:left
+  }
+  .pageTopic {
+    text-align: center
+  }
+  .pageTopic {
+    font-size: 100px
+  }
+  .paragraphText {
+    font-size: 40px;
+    text-align: center
+  }
+  .smallText {
+    font-size: 12px;
+    text-align: left
+  }
+  .storeButton {
+    align:center
+  }
+  
+  .card1_left {
+    display:inline-block;
+    border-radius: 5px;
+    height: 500px;
+    width: 900px;
+    text-align: center;
+    font-size: 43px;
+    background-color: #B7F0F1;
+    border: 4px solid #B7F0F1
+   }
+  .card1_right {
+    display: inline-block;
+    background-color: #E9998D;
+    border-radius: 5px;
+    height: 484px;
+    width: 900px; 
+    text-align: center;
+    font-size: 50px
+  }
+  .card2_left {
+    display: inline-block;
+    background-color: #C6C6C6;
+    border-radius: 5px;
+    height: 500px;
+    width: 900px;
+    text-align: center;
+    font-size: 45px;
+    background-color: #B7F0F1;
+    border: 4px solid #B7F0F1
+  }
+  .card2_right {
+    display: inline-block;
+    background-color: #E9998D;
+    border-radius: 5px;
+    height: 500px;
+    width: 900px;
+    text-align: center;
+    font-size: 58px
+  }
+  .card3_left {
+    display: inline-block;
+    background-color: #C6C6C6;
+    border-radius: 5px;
+    height: 500px;
+    width: 900px;
+    text-align: center;
+    font-size: 45px;
+    background-color: #B7F0F1;
+    border: 4px solid #B7F0F1
+  }
+  .card3_right {
+    display: inline-block;
+    background-color: #E9998D;
+    border-radius: 5px;
+    height: 500px;
+    width:900px;
+    text-align: center;
+    font-size: 48px
+  }
+  .card4_left {
+    display: inline-block;
+    background-color: #C6C6C6;
+    border-radius: 5px;
+    height: 500px;
+    width: 900px;
+    text-align: center;
+    background-color: #B7F0F1;
+    border: 4px solid #B7F0F1;
+    font-size: 45px;
+  }
+  .card4_right {
+    display: inline-block;
+    background-color: #E9998D;
+    border-radius: 5px;
+    height: 500px;
+    width: 900px;
+    text-align: center;
+    font-size: 58px
+  }
+  .card5_left {
+    display: inline-block;
+    background-color: #C6C6C6;
+    border-radius: 5px;
+    height: 500px;
+    width: 900px;
+    text-align: center;
+    background-color: #B7F0F1;
+    border: 4px solid #B7F0F1;
+    font-size: 45px;
+  }
+  .card5_right {
+    display: inline-block;
+    background-color: #E9998D;
+    border-radius: 5px;
+    height: 500px;
+    width: 900px;
+    text-align: center;
+    font-size: 58px
+  }
+  img {
+   float:left;
+   border-radius: 5px;
+   height:500px;
+   background-color: white;
+   width: 500px
+  }
+  footer {
+    display: inline-block;
+    background-color: #B7F0F1;
+    width: 100%;
+    height: 270px;
+  }
+  
